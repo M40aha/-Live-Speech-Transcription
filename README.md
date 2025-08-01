@@ -15,14 +15,15 @@ A sleek, responsive, and real-time speech-to-text web application that transcrib
 
 ✅ Easy to Use with Start/Stop controls
 
-📷 UI Preview
-☀️ Light Mode
-<img src="assets/Screenshot-light.png" alt="Light Mode UI" width="700"/>
-🌙 Dark Mode
+### 🌙 Dark Mode
 <img src="assets/Screenshot-dark.png" alt="Dark Mode UI" width="700"/>
-📋 Transcription Display
-<img src="assets/Screenshot-output.png" alt="Transcription Display" width="700"/>
-(You can rename and move your screenshots to assets/ or update paths accordingly.)
+
+### ☀️ Light Mode
+<img src="assets/Screenshot-light.png" alt="Light Mode UI" width="700"/>
+
+### 📝 Transcription Output
+<img src="assets/Screenshot-output.png" alt="Output" width="700"/>
+
 
 🚀 How to Run
 Option 1: Open Locally
