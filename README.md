@@ -1,4 +1,7 @@
 🧠 Live Speech Transcription 
+
+
+
 A sleek, responsive, and real-time speech-to-text web application that transcribes voice input continuously until manually stopped. Built using HTML, CSS, and JavaScript with a modern dark/light theme toggle.
 
 🌟 Features
